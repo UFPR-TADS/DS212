@@ -1,2 +1,3 @@
-# DS000
-Disciplina do x período do curso: nome da disciplina 
+# DS212 - Engenharia de Requisitos
+
+Disciplina do x período do curso: Engenharia de Requisitos
